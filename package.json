@@ -6,6 +6,5 @@
       "underscore": ""
     , "express" : ""
     , "ar-drone" : ""
-    , "skynet" : ""
   }
 }
